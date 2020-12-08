@@ -1,1 +1,13 @@
+The data contains 30 minute intervals data of prices of :
+
+  1. BTCUSDT (Bitcoin - Tether)
+  2. ETHUSDT (Ethereum - Tether)
+  3. XRPUSDT (Ripple - Terher)
+  4. LTCUSDT (Litecoin- Tether)
+  5. BCHUSDT (BitcoinCash - Tether)
+
+These are the 5 cryptos having highest market cap for the month of November 2020 according to "https://coinmarketcap.com/"
+
+The Data was/will be downloaded using a R script directly from the Binance Exchange.
+
 
