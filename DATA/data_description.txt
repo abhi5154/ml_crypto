@@ -2,7 +2,7 @@ The data contains 30 minute intervals data of prices of :
 
   1. BTCUSDT (Bitcoin - Tether)
   2. ETHUSDT (Ethereum - Tether)
-  3. XRPUSDT (Ripple - Terher)
+  3. XRPUSDT (Ripple - Tether)
   4. LTCUSDT (Litecoin- Tether)
   5. BCHUSDT (BitcoinCash - Tether)
 
