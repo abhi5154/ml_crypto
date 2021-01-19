@@ -22,4 +22,9 @@ statsmodels
 ## 4. Choose "time_frame" from {30,15}
 ## 5. Can change "seedx".
 ## 6. Run base.py
-## 7. This project has been developed using "spyder" with Python 3.8.
+## 7. This project has been developed using "spyder" with Python 3.8 and successfully tested on Windows x64 Laptop.
+##  The runtime is nearly 3-10 minutes .
+
+
+
+
