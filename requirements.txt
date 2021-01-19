@@ -10,3 +10,16 @@ datetime
 ta
 pykalman
 statsmodels
+
+
+#### The main file is base.py.
+#### The variable definitions is in constants.py
+#### To run the program 
+
+## 1. Open constants.py change the variable "base_folder" to the folder containing "base.py" file
+## 2. Change the variable "data_folder" to the folder containing "SPOT" folder.(This contains all the data).
+## 3. Choose asset name from {"BTCUSDT","ETHUSDT","LTCUSDT","XRPUSDT","BCHUSDT"}
+## 4. Choose "time_frame" from {30,15}
+## 5. Can change "seedx".
+## 6. Run base.py
+## 7. This project has been developed using "spyder" with Python 3.8.
